@@ -17,7 +17,7 @@ commit.
 
 ## Why Git
 
-Version control! As developers our code is our livelyhood so it's important
+Version control! As developers our code is our livelihood so it's important
 that we safely store our work... frequently.  Not only that we want to track our
 changes as we make them.  If we make a feature that ends up breaking the rest of
 our app we want to be able to go back to a point when our app was last working.
