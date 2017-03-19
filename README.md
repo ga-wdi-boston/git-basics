@@ -168,7 +168,7 @@ happened to Ned.
 (Be ready to talk about any issues you many have encountered or strange things
 you may have noticed).
 
-## Lab: Learn Git Branching
+## Code Along: Learn Git Branching
 
 Now let's take 10-15 minutes and go through [Learn Git Branching](http://learngitbranching.js.org/)
 together.
