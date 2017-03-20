@@ -17,7 +17,7 @@ commit.
 
 ## Why Git
 
-Version control! As developers our code is our livelyhood so it's important
+Version control! As developers our code is our livelihood so it's important
 that we safely store our work... frequently.  Not only that we want to track our
 changes as we make them.  If we make a feature that ends up breaking the rest of
 our app we want to be able to go back to a point when our app was last working.
@@ -168,7 +168,7 @@ happened to Ned.
 (Be ready to talk about any issues you many have encountered or strange things
 you may have noticed).
 
-## Lab: Learn Git Branching
+## Code Along: Learn Git Branching
 
 Now let's take 10-15 minutes and go through [Learn Git Branching](http://learngitbranching.js.org/)
 together.
