@@ -50,7 +50,7 @@ happen?
 ## Code Along: Staging and Commiting
 
 Using `git add <"name_of_file">` we are going to add our story to the staging
-area.
+area. Now run `git status`. What's different?
 
 There are 3 states that your file can reside in `committed`, `modified` and
 `staged`.  These states map to the different sections of a Git project.
