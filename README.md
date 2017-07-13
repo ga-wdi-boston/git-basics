@@ -24,7 +24,7 @@ our app we want to be able to go back to a point when our app was last working.
 
 ## Code Along: Making a Local Repository
 
-Let's initalize a local repository.
+Let's initialize a local repository.
 
 1.  In your training directory create a subdirectory called `game-of-gits`.
 
