@@ -13,7 +13,7 @@ commit.
 
 ## Prerequisites
 
--   [WDI Fundamentals, Chapter 2](http://fundamentals.generalassemb.ly/02_chapter/intro.html)
+-   [WDI Fundamentals, Chapter 2](http://fundamentals.generalassemb.ly/02_unit/git-bash-and-terminal.html)
 
 ## Why Git
 
